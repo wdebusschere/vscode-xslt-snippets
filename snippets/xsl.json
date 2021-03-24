@@ -72,6 +72,13 @@
     ],
     "description": "XSL Value Of"
   },
+  "Yw": {
+    "prefix": "yw",
+    "body": [
+      "<xsl:yw select=\"$1\" />"
+    ],
+    "description": "XSL YW"
+  },
   "Otherwise": {
     "prefix": "other",
     "body": [
