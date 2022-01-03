@@ -1,3 +1,5 @@
+paste the xml.json contents in preferences->user snippets.. :)
+
 # XSLT Snippets for Visual Studio Code
 
 Handful snippets for working with xslt templates.
